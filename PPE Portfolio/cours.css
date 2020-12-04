@@ -1,0 +1,20 @@
+h1{
+    font-size: 16px;
+    color: orange;
+}
+
+h2:first-of-type{
+    font-size: 64px;
+    color: red;
+}
+
+h2{
+   front-size: 32px;
+   color: pink;
+}
+
+
+p{
+   font-size: 16px;
+   color: blue;
+}
