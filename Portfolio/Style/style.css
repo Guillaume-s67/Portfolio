@@ -31,7 +31,10 @@ h3{
     padding: 12px;
     font-size: 18px;
     line-height: 25px;
-    border-radius: 4px;
+    border-radius: 8px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    background-color: white;
   }
 .header_title{
     left: 0;
@@ -54,6 +57,11 @@ h3{
     width: 20%;
     margin-left: 75%;
 }
+
+.photo_cv{
+    margin-left: 90px;
+}
+
 .center_section_pro{
     text-align: center;
     margin-left: 25%;
